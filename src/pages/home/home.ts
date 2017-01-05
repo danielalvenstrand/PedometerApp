@@ -14,7 +14,6 @@ export class HomePage {
 
 	steps: number = 0;
 	pedStatus: string = '';
-	
 
 	constructor(
 		public navCtrl: NavController,
